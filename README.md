@@ -57,18 +57,3 @@ Plans:
 | Automated Testing | Playwright + TypeScript |
 | Test Management | GitHub Projects / Issues |
 | CI/CD (planned) | GitHub Actions |
-
----
-
-## How to Use This Repository
-
-Feel free to:
-- Explore the Markdown files to see my test design process.
-- Clone or fork for inspiration in your own QA projects.
-- Use it as a reference for bug report and test case formatting.
-
----
-
-## Status
-
-This project is **work in progress**. More features (CI/CD, exploratory tests, responsive testing) coming soon.
